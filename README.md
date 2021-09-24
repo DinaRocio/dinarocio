@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **react, ruby on rails**
 
-- 📫 How to reach me **dvillanuevaq15@unc.edu.pe**
+- 📫 How to reach me **dinarocio20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
