@@ -1,9 +1,14 @@
 <h1 align="center">Hey 👋, I'm Dina Rocio</h1>
 <h3 align="center">I'm currently a front end developer excited to create the new web.</h3>
 
-- 💬 Ask me about **react, ruby on rails**
+- 💬 Ask me about **react, vue, react native**
 
 - 📫 How to reach me **dinarocio20@gmail.com**
+
+- 🦄 You can see my work over here [**dinarocio20@gmail.com**](https://portfolio-dinarocio.vercel.app/)
+  
+- 📚 Currently engaged in learning during Season 10 with SheFi.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
