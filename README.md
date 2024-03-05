@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **dinarocio20@gmail.com**
 
-- 🦄 You can see my work over here [**dinarocio20@gmail.com**](https://portfolio-dinarocio.vercel.app/)
+- 🦄 You can see my work over here [on my Portfolio](https://portfolio-dinarocio.vercel.app/)
   
 - 📚 Currently engaged in learning during Season 10 with SheFi.
 
