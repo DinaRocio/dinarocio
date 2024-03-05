@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Dina Rocio</h1>
-<h3 align="center">I'm currently a junior developer looking for a job in technology where I can create solutions for the future.</h3>
+<h3 align="center">I'm currently a front end developer excited to create the new web.</h3>
 
 - 💬 Ask me about **react, ruby on rails**
 
