@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Dina Rocio</h1>
 <h3 align="center">I'm currently a front end developer excited to create the new web.</h3>
 
-- 💬 Ask me about **react, vue, react native**
+- 💬 Ask me about **react, vue, react native, a11y**
 
 - 📫 How to reach me **dinarocio20@gmail.com**
 
